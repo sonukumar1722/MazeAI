@@ -1,6 +1,6 @@
 # Maze Solver
 
-#### Video Demo: [https://youtu.be/6_KDwwD8SZ8](https://youtu.be/6_KDwwD8SZ8)
+#### Video Demo:
 
 #### Description
 This project is a maze solver implemented in Python using various search algorithms. The maze is read from a text file, and different solving methods are applied to find a path from the start point to the goal. The solution path, explored cells, and maze walls are visualized in an image.
